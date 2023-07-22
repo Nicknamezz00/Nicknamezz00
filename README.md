@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on DiDi Global
+- 🔭 I’m currently working on DiDi Global Growth Tech
 - 🌱 I’m currently learning server-side engineering
 - 📫 How to reach me: aaronwu_i at didiglobal dot com
   
