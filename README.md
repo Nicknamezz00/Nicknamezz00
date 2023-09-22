@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at DiDi Global Growth Tech
-- 🌱 I’m currently learning server-side engineering
+- 🌱 I’m currently learning Go on server-side
 - 📫 How to reach me: aaronwu_i at didiglobal dot com
   
 <!--
