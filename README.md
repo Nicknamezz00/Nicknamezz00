@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at DiDi Global Growth Tech
 - 🌱 I’m currently learning Go on server-side
-- 📫 How to reach me: aaronwu_i at didiglobal dot com
+- 📫 How to reach me: -
   
 <!--
 **Nicknamezz00/Nicknamezz00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
