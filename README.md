@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at DiDi Global Growth Tech
+- 🔭 I’m currently working at Uber
 - 🌱 I’m currently learning Go on server-side
 - 📫 How to reach me: -
   
